@@ -3,4 +3,5 @@ mysql:5.7
 python:3.9
 centos:7
 redis:6
-centos:7.9
+busybox
+alpine
