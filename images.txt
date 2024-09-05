@@ -5,3 +5,4 @@ centos:7
 redis:6
 busybox
 alpine
+maven:3.8.3
